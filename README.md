@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 
 - 💬 Ask me about：qq群：539743741
-- 📫 How to reach me: 邮箱：539743741@qq.com
+
 - 😄 Blog: https://www.cnblogs.com/jycom/
 
 
