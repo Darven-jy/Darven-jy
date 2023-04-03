@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 
-- 💬 Ask me about：qq群：539743741
+- 💬 Ask me about: 
 
 - 😄 Blog: 
 
