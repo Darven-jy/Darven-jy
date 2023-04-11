@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 
 
 
-![Darven-jy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darven-jy)
+
+[![Darven-jy's github stats](https://github-readme-stats.vercel.app/api?username=Darven-jy)](https://github.com/Darven-jy/github-readme-stats)
